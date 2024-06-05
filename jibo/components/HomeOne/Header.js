@@ -6,7 +6,7 @@ import VisibilitySensor from "react-visibility-sensor";
 const sliderData = [
   {
     // heading: "KATALOG PRODUK & SOLUSI GO DIGITAL",
-    heading: "Solusi Go Digital Untuk Nasabah institusi",
+    heading: "Solusis Go Digital Untuk Nasabah institusi",
     text: "Layanan Perbankan saat ini bukan hanya Funding - Lending saja, akan tetapi perlu layanan solusi teknologi yang terintegrasi dengan Open Banking Technology.",
     image: "/images/mobiles.png",
   }
